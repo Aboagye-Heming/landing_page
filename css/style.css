@@ -1,0 +1,96 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+}
+.homepage {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  text-align: center;
+  color: #1d3557;
+}
+.title {
+  background-color: #1d3557;
+  color: #ffffff;
+}
+.sub-title {
+  background-color: #457b9d;
+  border-radius: 10px;
+  color: #ffffff;
+}
+.images-content {
+  display: flex;
+  margin-top: 54px;
+}
+.small-content {
+  margin: auto;
+  text-align: center;
+}
+.small-content-images {
+  border-radius: 50px;
+}
+.section-1 {
+  background-image: url(/images/torshov-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  width: 100%;
+  margin-bottom: 0px;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-1-content {
+  padding: 20px 40px;
+}
+.section-2 {
+  background-color: #f1faee;
+  text-align: center;
+  padding: 40px 8px;
+}
+.section-2-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.background {
+  background-color: #ffffff;
+  padding: 50px 0px;
+  
+}
+.background-content {
+  background-color: #a8dadc;
+  border-radius: 10px;
+  display: flex;
+  box-shadow: 0px 6px 0px #1d3557;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.per-img {
+  padding: 23px 7px 23px 13px;
+}
+.per-content {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+.theatre {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+.conclusion {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
